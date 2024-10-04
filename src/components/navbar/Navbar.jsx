@@ -44,7 +44,7 @@ const Navbar = () => {
           </div>
           <div className="item">
             <img
-              src="https://www.google.com/imgres?q=profile%27&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fblue-circle-with-white-user_78370-4707.jpg%3Fsize%3D338%26ext%3Djpg%26ga%3DGA1.1.2008272138.1727913600%26semt%3Dais_hybrid&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fuser-profile&docid=ZyFeK2BRducuvM&tbnid=zaGnAi_1MRh1TM&vet=12ahUKEwiPvp_zxvSIAxX2k1YBHejBKCkQM3oECGIQAA..i&w=338&h=338&hcb=2&ved=2ahUKEwiPvp_zxvSIAxX2k1YBHejBKCkQM3oECGIQAA"
+              src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.rediff.com%2Fcricket%2Freport%2Fdhonis-khichdi-diet-led-india-to-world-cup-glory%2F20230627.htm&psig=AOvVaw2eFToqPxS5SY3iSavCb7DF&ust=1728125563452000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCDupfH9IgDFQAAAAAdAAAAABAE"
               alt=""
               className="avatar"
             />
