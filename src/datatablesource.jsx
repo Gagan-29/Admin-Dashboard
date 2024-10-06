@@ -50,7 +50,7 @@ export const userRows = [
     username: "Jamie Lannister",
     img: "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
     email: "2snow@gmail.com",
-    status: "not active",
+    status: "not_active",
     age: 42,
   },
   {
@@ -74,7 +74,7 @@ export const userRows = [
     username: "Targaryen",
     img: "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
     email: "5snow@gmail.com",
-    status: "not active",
+    status: "not_active",
     age: 22,
   },
   {
@@ -90,7 +90,7 @@ export const userRows = [
     username: "Clifford",
     img: "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
     email: "7snow@gmail.com",
-    status: "not active",
+    status: "not_active",
     age: 44,
   },
   {
